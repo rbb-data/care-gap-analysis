@@ -2,7 +2,7 @@
 1. These script were used to estimate how the pandemic has affected mothers and fathers differently
 
 2. 
-  * [So viele Leben haben die Impfungen wohl schon gerettet](https://www.rbb24.de/politik/thema/corona/beitraege/2021/09/lockdown-auswirkungen-gender-care-gap-muetter-vaeter-familie.html)
+  * [Wie Mütter und Väter zwei unterschiedliche Pandemien erlebten](https://www.rbb24.de/politik/thema/corona/beitraege/2021/09/lockdown-auswirkungen-gender-care-gap-muetter-vaeter-familie.html)
 
   08.09.2021 / 
   Our analysis shows that despite parents having distributed the additional care work equally, mothers have suffered more than fathers. Because they have been doing more care work to begin with.
